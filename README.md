@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # memo-mate
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -27,3 +28,6 @@ npm run dev
 ```sh
 npm run build
 ```
+=======
+# memo-mate
+>>>>>>> 0926cd56c9a28d5346aa5a10ad39a9be2e9d76f5
